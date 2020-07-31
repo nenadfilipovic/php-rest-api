@@ -51,7 +51,7 @@ Upload code via sftp or whatever.
 
 ## Built With
 
-* [PHP](https://www.php.net/) - Language used
+* [PHP](https://www.php.net/)
 
 ## Authors
 
