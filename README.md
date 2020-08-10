@@ -5,7 +5,7 @@ So far all methods work and API do what it is supposed to do.
 
 ## Getting Started
 
-Clone this repository
+Clone this repository:
 
 ```
 git clone https://github.com/nenadfilipovic/php-rest-api
@@ -59,7 +59,7 @@ Upload code via sftp or whatever.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
